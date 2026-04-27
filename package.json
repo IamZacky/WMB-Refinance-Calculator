@@ -1,0 +1,25 @@
+{
+  "name": "wmb-refinance-calculator",
+  "version": "1.0.0",
+  "description": "WMB Refinance Calculator - Rate & Term vs Cash-Out determination tool",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build step required'",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamZacky/WMB-Refinance-Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamZacky/WMB-Refinance-Calculator/issues"
+  },
+  "homepage": "https://github.com/IamZacky/WMB-Refinance-Calculator#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
